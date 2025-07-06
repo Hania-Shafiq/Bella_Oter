@@ -1,5 +1,7 @@
 # Bella Otér – Mini Discovery Page
 
+![image](https://github.com/user-attachments/assets/aae0d824-5948-4db7-af3d-c32082f897b6)
+
 A soft, elegant single-page React app simulating the start of Bella Otér’s Raven Body Profile flow.
 This was created as a test page
 
@@ -22,4 +24,4 @@ This was created as a test page
 ```bash
 npm install
 npm run dev
-![image](https://github.com/user-attachments/assets/4bdd881f-71ec-40d2-a362-f478b14aba48)
+
